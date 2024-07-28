@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ytamp3</string>
+    <string name="logo_description">logo de ytamp3</string>
+    <string name="title">YT A MP3</string>
+    <string name="input_hint">Url</string>
+    <string name="input_label">Inserta la url del video de youtube:</string>
+    <string name="button">Convertir</string>
+    <string name="input_hint_2">www.youtube.com/watch?v=</string>
+    <string name="url">https://ytamp3.com/yt/</string>
+    <string name="autor">App Desarrollada por Renato Cavieres</string>
+</resources>
